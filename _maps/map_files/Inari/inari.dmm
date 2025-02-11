@@ -6295,6 +6295,7 @@
 /obj/effect/turf_decal/trimline/dark_green/corner{
 	dir = 4
 	},
+/obj/machinery/gear_painter,
 /turf/open/floor/iron/dark{
 	dir = 4
 	},
@@ -32406,6 +32407,11 @@
 	},
 /turf/open/floor/iron/dark,
 /area/station/hallway/primary/aft)
+"nga" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/obj/machinery/gear_painter,
+/turf/open/floor/iron/dark,
+/area/station/hallway/primary/starboard)
 "ngA" = (
 /obj/effect/turf_decal/siding/dark{
 	dir = 1
@@ -33792,6 +33798,7 @@
 /obj/effect/turf_decal/trimline/dark_green/corner{
 	dir = 1
 	},
+/obj/machinery/gear_painter,
 /turf/open/floor/iron/dark,
 /area/station/commons/dorms{
 	name = "West Dormitories"
@@ -35405,7 +35412,7 @@
 /turf/open/floor/plating,
 /area/station/hallway/secondary/service)
 "osD" = (
-/obj/machinery/anesthetic_machine,
+/obj/machinery/breath_machine/anesthetic,
 /obj/effect/turf_decal/tile/blue/full,
 /obj/effect/turf_decal/siding/blue/end,
 /turf/open/floor/iron/freezer,
@@ -51577,6 +51584,11 @@
 	},
 /turf/open/floor/mineral/titanium/white,
 /area/station/hallway/secondary/service)
+"vfE" = (
+/obj/effect/turf_decal/trimline/dark_green/filled/line,
+/obj/machinery/gear_painter,
+/turf/open/floor/iron/dark,
+/area/station/hallway/primary/port)
 "vfF" = (
 /obj/structure/window/spawner/directional/east,
 /obj/item/kirbyplants/organic/plant10,
@@ -51648,7 +51660,7 @@
 "vht" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/east,
-/obj/machinery/anesthetic_machine,
+/obj/machinery/breath_machine/anesthetic,
 /obj/effect/turf_decal/tile/blue/full,
 /obj/effect/turf_decal/siding/blue/end,
 /turf/open/floor/iron/freezer,
@@ -149707,7 +149719,7 @@ erl
 sMm
 mnz
 sMm
-bcV
+vfE
 moQ
 moQ
 moQ
@@ -161015,7 +161027,7 @@ iiM
 gwZ
 fdR
 gwZ
-vGT
+nga
 owQ
 owQ
 owQ
