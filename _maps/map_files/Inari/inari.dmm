@@ -63,10 +63,10 @@
 	name = "East Dormitories"
 	})
 "aaN" = (
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 1
 	},
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "aaW" = (
 /obj/structure/cable,
@@ -3028,11 +3028,10 @@
 /turf/open/floor/mineral/plastitanium,
 /area/station/command/heads_quarters/hop)
 "brE" = (
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 10
 	},
-/obj/structure/flora/bush/snow/style_random,
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "brH" = (
 /obj/structure/railing,
@@ -9068,8 +9067,8 @@
 /turf/open/floor/circuit/green/off,
 /area/station/command/heads_quarters/nt_rep)
 "dII" = (
-/obj/structure/flora/tree/pine/xmas/presents/safe,
-/turf/open/floor/fake_snow/safe,
+/obj/structure/musician/piano,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "dIO" = (
 /obj/effect/turf_decal/siding/wood{
@@ -18090,7 +18089,7 @@
 /area/station/medical/medbay/central)
 "hwf" = (
 /obj/structure/window/reinforced/shuttle,
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -23487,10 +23486,10 @@
 	codes_txt = "patrol;next_patrol=hall3";
 	location = "hall2"
 	},
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 9
 	},
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "jFL" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2{
@@ -27203,7 +27202,7 @@
 	},
 /obj/machinery/door/firedoor,
 /obj/effect/turf_decal/delivery,
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -28845,11 +28844,11 @@
 /turf/open/floor/carpet/black,
 /area/station/commons/dorms/apartment1)
 "lKS" = (
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 4
 	},
-/obj/structure/flora/bush/snow/style_random,
-/turf/open/floor/fake_snow/safe,
+/obj/structure/chair/stool/directional/west,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "lLt" = (
 /obj/machinery/duct,
@@ -33935,7 +33934,7 @@
 	name = "Lockdown Blastdoor"
 	},
 /obj/structure/window/reinforced/shuttle,
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -35362,7 +35361,7 @@
 /obj/machinery/door/airlock/maintenance_hatch{
 	name = "Maintenance Access"
 	},
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -41136,17 +41135,8 @@
 /turf/open/floor/plating,
 /area/station/service/barber)
 "qIv" = (
-/obj/effect/turf_decal/siding/wood,
-/obj/item/toy/snowball,
-/obj/item/toy/snowball{
-	pixel_y = 4;
-	pixel_x = 6
-	},
-/obj/item/toy/snowball{
-	pixel_y = -3;
-	pixel_x = 6
-	},
-/turf/open/floor/fake_snow/safe,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "qIw" = (
 /obj/effect/turf_decal/siding/dark,
@@ -42008,11 +41998,10 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/station/ai_monitored/command/storage/eva)
 "qXP" = (
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 8
 	},
-/obj/structure/flora/bush/snow/style_5,
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "qXS" = (
 /obj/structure/table/wood/poker,
@@ -44280,7 +44269,7 @@
 /obj/machinery/door/firedoor{
 	dir = 8
 	},
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -47253,10 +47242,10 @@
 	codes_txt = "patrol;next_patrol=hall1";
 	location = "hall12"
 	},
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 5
 	},
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "teQ" = (
 /obj/structure/closet/generic/wall/empty{
@@ -47759,7 +47748,7 @@
 	},
 /obj/machinery/door/firedoor,
 /obj/effect/turf_decal/delivery,
-/obj/machinery/door/poddoor{
+/obj/machinery/door/poddoor/preopen{
 	name = "Park Access";
 	id = "parkleft"
 	},
@@ -48745,14 +48734,10 @@
 /turf/open/floor/iron/dark/smooth_half,
 /area/station/cargo/office)
 "tTQ" = (
-/obj/effect/turf_decal/siding/wood{
+/obj/effect/turf_decal/siding/dark_green{
 	dir = 6
 	},
-/obj/structure/statue/snow/snowman{
-	pixel_y = 3;
-	pixel_x = -3
-	},
-/turf/open/floor/fake_snow/safe,
+/turf/open/floor/wood/large,
 /area/station/hallway/primary/aft)
 "tTR" = (
 /obj/machinery/duct,
