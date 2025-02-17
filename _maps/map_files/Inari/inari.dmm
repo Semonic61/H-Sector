@@ -39334,6 +39334,13 @@
 /obj/effect/landmark/start/assistant,
 /turf/open/floor/iron/dark/diagonal,
 /area/station/commons/lounge)
+"pVH" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/turf/open/floor/grass/fairy,
+/area/station/hallway/secondary/entry)
 "pVT" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
@@ -57228,9 +57235,9 @@
 /turf/open/floor/iron/freezer,
 /area/station/commons/dorms/apartment1)
 "xzz" = (
-/obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/window/reinforced/spawner/directional/north,
 /turf/open/floor/grass/fairy,
 /area/station/hallway/secondary/entry)
 "xzI" = (
@@ -90100,7 +90107,7 @@ iwp
 kzh
 mnh
 tXf
-gXQ
+pVH
 rxe
 aKx
 ktr
